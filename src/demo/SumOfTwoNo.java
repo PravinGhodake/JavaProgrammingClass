@@ -12,6 +12,7 @@ public class SumOfTwoNo {
 	int num2=sc.nextInt();
 	
 	System.out.println("Addition Of Two No is"+(num1+num2));
+	sc.close();
 	}
 
 }

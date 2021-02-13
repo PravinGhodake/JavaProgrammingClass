@@ -9,7 +9,7 @@ public class No1toNtest {
 		No1toN A=new No1toN();
 		System.out.println("Please Enter No :- ");
 		A.wprintNumber( sc.nextInt());
-
+		sc.close();
 	}
 
 }
